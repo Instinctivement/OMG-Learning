@@ -1,0 +1,22 @@
+[
+    {
+        "question": "Quelle est la capitale de la France?",
+        "choices": [
+            "Paris",
+            "Lyon",
+            "Marseille",
+            "Toulouse"
+        ],
+        "correct": "Paris"
+    },
+    {
+        "question": "Quelle est la plus haute montagne du monde?",
+        "choices": [
+            "K2",
+            "Kangchenjunga",
+            "Everest",
+            "Lhotse"
+        ],
+        "correct": "Everest"
+    }
+]
